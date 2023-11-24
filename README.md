@@ -5,8 +5,8 @@ This database contains experimental data of wind tunnel measurements for propell
 
 ## Experiment Data Set Features:
 
-PropName: Propeller's Name.
-BladeName: Blade's Name.
++ PropName: Propeller's Name.
++ BladeName: Blade's Name.
 Family: Propeller's Brand.
 B: Number of Blades.
 D: Propeller's Diameter.
